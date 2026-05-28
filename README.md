@@ -140,7 +140,7 @@ Example Queries:
 ## 1. Clone Repository
 
 ```bash
-git clone <your-github-url>
+git clone https://github.com/Deep1897/ai-bussiness-chatbot
 ```
 
 ## 2. Move to Project Folder
