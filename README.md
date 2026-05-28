@@ -140,7 +140,7 @@ Example Queries:
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/Deep1897/ai-bussiness-chatbot
+git clone git@github.com:Deep1897/ai-bussiness-chatbot.git
 ```
 
 ## 2. Move to Project Folder
@@ -177,7 +177,7 @@ GROQ_API_KEY=your_groq_api_key
 Development Mode:
 
 ```bash
-npm run dev
+npm start
 ```
 
 Production Mode:
