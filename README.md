@@ -128,11 +128,6 @@ Example Queries:
 * Pending orders
 * Last completed orders
 
-#### Customer Queries
-
-* Top customers by purchase
-* Customer purchase history
-
 ---
 
 # ⚙️ Installation & Setup
