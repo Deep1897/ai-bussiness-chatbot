@@ -211,6 +211,7 @@ http://localhost:5000/api/auth/register
   "name": "Admin User",
   "email": "admin@example.com",
   "password": "123456"
+  "role":"admin"
 }
 ```
 
@@ -319,7 +320,7 @@ This endpoint dynamically generates sales reports and returns downloadable data.
 /api/products
 ```
 
-Returns all available products from the database.
+For this you can simply chat all products or any related query as you comfortable
 
 ---
 
@@ -331,7 +332,7 @@ Returns all available products from the database.
 /api/orders
 ```
 
-Returns all customer orders.
+For this you can simply chat all orders or any related query as you comfortable
 
 ---
 
@@ -343,7 +344,7 @@ Returns all customer orders.
 /api/reports/sales
 ```
 
-Returns sales-related records and reports.
+For this you can simply chat all sales or any related query as you comfortable
 
 ---
 
